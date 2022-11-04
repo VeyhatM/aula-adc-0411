@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello from dev2!
+=======
+Hello from dev!!
+>>>>>>> dev
